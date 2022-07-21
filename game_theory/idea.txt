@@ -1,0 +1,5 @@
+every word gets a score calculated as:
+the sum of each letter's score, calculated as:
+how many possible words that letter could relate to, whether in that place or in that word
+
+ie lets say:
